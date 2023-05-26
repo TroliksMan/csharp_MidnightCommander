@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+n+6htutQ2mtVcCNBpoDe9MzYz04OI3zlyQPT8CkdPoVO5C955OhbHYlat79/WN/xt68A5GN/41bSN1akfZvtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\troli\\Desktop\\MidnightCommander\\15.12\\MidnightCommander\\MidnightCommander\\MidnightCommander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\troli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
